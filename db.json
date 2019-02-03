@@ -1,6 +1,14 @@
+
+{
+  "posts": [
 {
   "NOME_MACCHINA": "PPP",
   "DESCRIZIONE": "hello",
   "STATO_MACCHINA": "OO",
   "MINUTI_RIMANENTI": 23
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
