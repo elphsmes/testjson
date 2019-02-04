@@ -1,13 +1,6 @@
 
 {
-  "posts": [
-{
-  "NOME_MACCHINA": "PPP",
-  "DESCRIZIONE": "hello",
-  "STATO_MACCHINA": "OO",
-  "MINUTI_RIMANENTI": 23
-}
-  ],
+  "posts": {"Macchina":"PUMA 2600","Stato":"Fermo Generico","Descrizione":"","Tempo":"0"},
   "profile": {
     "name": "typicode"
   }
