@@ -1,6 +1,11 @@
 
 {
-  "posts": {"Macchina":"PUMA 2600","Stato":"Fermo Generico","Descrizione":"TESTING","Tempo":"0"},
+  "posts": {
+    "Macchina":"PUMA 2600",
+    "Stato":"Fermo Generico",
+    "Descrizione":"TESTING",
+    "Tempo":"0"
+  },
   "profile": {
     "name": "typicode"
   }
